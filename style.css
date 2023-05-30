@@ -104,7 +104,7 @@ img{
     object-fit: cover;
   }
 }
-@media (max-width: 852px) {
+@media (max-width: 712px) {
   .logo {
     width: 100px;
   }
